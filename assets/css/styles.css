@@ -996,6 +996,7 @@ SKILLS
 }
 .legend-left.legend:before{
   margin-left: 0;
+
 }
 .legend-right.legend:before{
   margin-right: 0;
@@ -1008,4 +1009,8 @@ SKILLS
 }
 .legend-right{
   text-align: right;
+}
+
+.legend-left{
+  text-align: left;
 }
