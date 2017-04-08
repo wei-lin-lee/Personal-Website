@@ -72,7 +72,7 @@ a.btn {
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
-  background: #008fa1;
+  background: #5e5e5e;
   color: #fff;
   text-align: center;
   display: inline-block;
@@ -92,7 +92,7 @@ a.btn {
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.3);
 }
 #topcontrol:hover {
-  background: #007888;
+  background: #707070;
   color: #fff;
 }
 #topcontrol .fa {
@@ -560,14 +560,14 @@ a.btn {
   margin-right: 0;
 }
 .portfolio-section .filters .type.active {
-  color: #00BCD4;
-  border-bottom: 2px solid #00BCD4;
+  color: #383838;
+  border-bottom: 2px solid ##686868;
 }
 .portfolio-section .item {
   margin-bottom: 30px;
 }
 .portfolio-section .item-inner {
-  background: #00BCD4;
+  background: #686868;
   color: #fff;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
@@ -583,7 +583,7 @@ a.btn {
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
 }
 .portfolio-section .item-inner:hover {
-  background: #00c5de;
+  background: #878787;
 }
 .portfolio-section .item-inner:hover img {
   -webkit-opacity: 0.9;
@@ -936,7 +936,7 @@ a.btn {
   margin-bottom: 15px;
 }
 .box h2{
-  color: #EC7263;
+  color: #a9a9a9;
   font-size: 1.8em;
   font-weight: 700;
   text-transform: uppercase;
@@ -954,7 +954,7 @@ SKILLS
 *******************************************/
 .item-skills{
   height: 30px;
-  background: #F0563D;
+  background: #686868;
   color: #fff;
   padding: 5px 10px;
   margin-bottom: 5px;
