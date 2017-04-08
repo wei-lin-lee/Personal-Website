@@ -25,7 +25,7 @@ h6 {
   font-weight: 500;
 }
 a {
-  color: #00BCD4;
+  color: #DAA520;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -33,7 +33,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #007888;
+  color: #FFDF00;
 }
 a:focus {
   text-decoration: none;
@@ -644,7 +644,7 @@ a.btn {
   margin-bottom: 15px;
 }
 .contact-section .service-list .fa {
-  color: #00BCD4;
+  color: #666666;
 }
 .contact-section .social {
   margin-bottom: 0;
