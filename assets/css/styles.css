@@ -185,8 +185,9 @@ a.btn {
   font-size: 16px;
 }
 .header .profile {
-/*  max-width: 800px;*/
-  margin: 0 auto;
+  max-width: 400px;
+  margin: 0;
+  
 }
 .header .contact-info {
   padding-top: 30px;
